@@ -707,7 +707,7 @@ $ > mvn clean test -Parq-wildfly-managed
 [INFO] Scanning for projects...
 [INFO]                                                                         
 [INFO] ------------------------------------------------------------------------
-[INFO] Building JBoss EAP Quickstart: kitchensink 7.0.0-SNAPSHOT
+[INFO] Building JBoss EAP Quickstart: kitchensink 7.1.0-SNAPSHOT
 [INFO] ------------------------------------------------------------------------
 [INFO] 
 [INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ jboss-kitchensink ---
@@ -908,7 +908,7 @@ $ > mvn clean test -Parq-wildfly-remote
 [INFO] Scanning for projects...
 [INFO]                                                                         
 [INFO] ------------------------------------------------------------------------
-[INFO] Building JBoss EAP Quickstart: kitchensink 7.0.0-SNAPSHOT
+[INFO] Building JBoss EAP Quickstart: kitchensink 7.1.0-SNAPSHOT
 [INFO] ------------------------------------------------------------------------
 [INFO] 
 [INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ jboss-kitchensink ---
